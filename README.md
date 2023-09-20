@@ -181,8 +181,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
  
 
 ## STM 32 CUBE PROGRAM :
-## DEVELOPED BY : ADHITHIYAN.K
-## REGISTER NO : 212222230006
+## DEVELOPED BY : kanishka.V.S
+## REGISTER NO : 212222230061
 ```
 #include "main.h"
 #include"stdbool.h"
